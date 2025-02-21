@@ -24,4 +24,4 @@ Example:
 ## 🛠 Installation & Setup  
 ### 3️⃣ *Clone the Repository*  
 ```bash
-git clone https://github.com/GudepuRakshitha/Twitter-Sentiment-Analysis-Using-VADER
+https://github.com/GudepuRakshitha/Twitter-Sentiment-Analysis-Using-VADER-
